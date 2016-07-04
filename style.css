@@ -51,4 +51,48 @@ li a{
 li a:hover{
 
 	color: black;
-	text-decoration: underli
+	text-decoration: underline;
+}
+
+/********TABLE*********
+*********FORM********/
+
+table{
+
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 300px;
+	padding-top: 60px;
+	padding-bottom: 60px;
+	line-height: 1.5em;
+	text-align: center;
+	font-weight: bold;
+}
+
+caption{
+
+	background-color: #2FA9DC;
+	height: 50px;
+	padding-top: 20px;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 25px; 
+	border-radius: 10px;
+	box-shadow: 6px 6px 6px white inset;	
+}
+
+.underline
+{
+	background-color: grey;
+	color: white;
+	font-weight: bold;
+}
+
+td{
+	height: 50px;
+	width: 600px;
+}
+
+.selection
+{
+	display: none;
+}
