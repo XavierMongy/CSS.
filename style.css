@@ -133,3 +133,24 @@ p{
 
  	text-decoration: underline;
 }
+
+/*****************MQ***************/
+
+@media screen and (max-width: 1053px){
+
+nav{
+
+	display: none;
+}
+
+.selection{
+
+	display: block;
+	float: left;
+	width: 90%;
+	margin-top: 150px;
+	margin-left: 5%;
+	height: 50px
+}
+
+}
